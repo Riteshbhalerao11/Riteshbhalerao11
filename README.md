@@ -1,24 +1,25 @@
 # Ritesh Bhalerao
 
 
-A **brief** summary about you.
+A **brief** summary about me
 
 ### 🎓 Education
-- Undergraduate,AI and DS, VESIT
+- Pursuing undergraduate,AI and DS, VESIT
 
 ### 📚 Languages
 - Python
 - C++
 - Java
 
-### 🔧 Tech Stack
-- FLutter and dart
-- Currently learning Deep learning
+### 🔧 Currently exploring
+- Deep learning
+- Flutter & Dart
 
-### 🔗 Links
+### 🔗 Connect with me
 - [LinkedIn](https://linkedin.com/in/ritesh-bhalerao-890991239)
 - [Instagram](https://instagram.com/riteshh.bhalerao)
+- [Gmail](ritesh.bhalerao.11603@gmail.com)
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh&show_icons=true)
