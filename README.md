@@ -18,7 +18,7 @@ A **brief** summary about me
 ### 🔗 Connect with me
 - [LinkedIn](https://linkedin.com/in/ritesh-bhalerao-890991239)
 - [Instagram](https://instagram.com/riteshh.bhalerao)
-- [Gmail](ritesh.bhalerao.11603@gmail.com)
+- [Email](mailto:ritesh.bhalerao.11603@gmail.com)
 
 ---
 
