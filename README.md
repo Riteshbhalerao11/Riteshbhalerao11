@@ -22,4 +22,4 @@ A **brief** summary about me
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshBhalearao11&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshBhalerao11&show_icons=true)
