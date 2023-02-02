@@ -1,16 +1,24 @@
-### Hi there 👋
+# Ritesh Bhalerao
 
-<!--
-**Riteshbhalerao11/Riteshbhalerao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A **brief** summary about you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- Undergraduate,AI and DS, VESIT
+
+### 📚 Languages
+- Python
+- C++
+- Java
+
+### 🔧 Tech Stack
+- FLutter and dart
+- Currently learning Deep learning
+
+### 🔗 Links
+- [LinkedIn](https://linkedin.com/in/ritesh-bhalerao-890991239)
+- [Instagram](https://instagram.com/riteshh.bhalerao)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
