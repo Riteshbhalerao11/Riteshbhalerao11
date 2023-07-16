@@ -10,10 +10,11 @@ A **brief** summary about me
 - Python
 - C++
 - Java
+- Dart (Flutter)
 
 ### 🔧 Currently exploring
 - Deep learning
-- Flutter & Dart
+- Machine learning
 
 ### 🔗 Connect with me
 - [LinkedIn](https://linkedin.com/in/ritesh-bhalerao-890991239)
