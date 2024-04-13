@@ -20,7 +20,8 @@ A **brief** summary about me
 - [LinkedIn](https://linkedin.com/in/ritesh-bhalerao-890991239)
 - [Instagram](https://instagram.com/riteshh.bhalerao)
 - [Email](mailto:ritesh.bhalerao.11603@gmail.com)
+- [Website](https://riteshbhalerao11.github.io/personal-website/)
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshBhalerao11&show_icons=true)
+
